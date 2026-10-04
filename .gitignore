@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+.venv/
+venv/
+.env
+env/
+bahram.test
+pypi_publishing_guide_fa.docx

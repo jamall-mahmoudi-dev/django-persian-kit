@@ -1,0 +1,30 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: django-persian-kit 0.1.0\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Persian Kit"
+msgstr "ابزارهای فارسی"
+
+msgid "Enter a valid Iranian national ID (10 digits)."
+msgstr "کد ملی وارد شده معتبر نیست (۱۰ رقم)."
+
+msgid "Enter a valid Iranian mobile number (e.g. 09123456789)."
+msgstr "شماره موبایل وارد شده معتبر نیست (مثال: 09123456789)."
+
+msgid "Enter a valid 16-digit bank card number."
+msgstr "شماره کارت بانکی معتبر نیست (۱۶ رقم)."
+
+msgid "Enter a valid Sheba (IBAN) number."
+msgstr "شماره شبا معتبر نیست."
+
+msgid "Enter a valid 10-digit postal code."
+msgstr "کد پستی معتبر نیست (۱۰ رقم)."
+
+msgid "Enter a valid Jalali date, e.g. 1403/01/15."
+msgstr "تاریخ شمسی معتبر نیست (مثال: 1403/01/15)."
